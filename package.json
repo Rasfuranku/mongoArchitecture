@@ -1,0 +1,23 @@
+{
+  "name": "mongoarchitecture",
+  "version": "1.0.0",
+  "description": "Devlop a Mongo architecture with NodeJs and the official MongoDB Driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mongodb",
+    "mongodriver",
+    "nodejs",
+    "mongo3.4"
+  ],
+  "author": "Frank Torres",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongo": "^0.1.0",
+    "mongodb": "^2.2.31"
+  }
+}
